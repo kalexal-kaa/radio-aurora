@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.alexkdeveloper.radio
+Exec=/usr/bin/ru.alexkdeveloper.radio
+Name=Radio
+Name[ru]=Радио
+
+[X-Application]
+Permissions=Audio;Internet
+OrganizationName=ru.alexkdeveloper
+ApplicationName=radio
+ExecDBus=/usr/bin/ru.alexkdeveloper.radio
